@@ -57,3 +57,5 @@ RUN chmod 555 /home/pwn/read_file && chmod u+s /home/pwn/read_file
 USER web
 
 CMD ["bash", "-c", "apache2-foreground"]
+
+
