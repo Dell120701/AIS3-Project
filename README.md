@@ -1,4 +1,4 @@
-# AIS3 Final Project
+# AIS3 Project
 ## Intro
 這是AIS3的進階攻防競技的營末專題，我們主要要出三題CTF題目
 - advator：web題
